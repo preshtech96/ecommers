@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import group from "../assets/group.png";
 import loc from "../assets/loc.png";
 import searchbtn from "../assets/searchbtn.png";
 import acc from "../assets/acc.png";
