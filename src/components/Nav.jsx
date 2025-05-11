@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import loc from "../assets/loc.png";
-import searchbtn from "../assets/searchbtn.png";
+// import searchbtn from "../assets/searchbtn.png";
 import acc from "../assets/acc.png";
 import lov from "../assets/lov.png";
 import cert from "../assets/cert.png";
@@ -58,7 +58,7 @@ export const Nav = () => {
             type="text"
             placeholder="Search for product, brands or categories..."
           />
-          <img className="p-2 w-10 h-10" src={searchbtn} alt="Search" />
+          {/* <img className="p-2 w-10 h-10" src={searchbtn} alt="Search" /> */}
         </div>
 
        
